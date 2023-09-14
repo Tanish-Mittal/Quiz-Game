@@ -29,10 +29,15 @@ Building this quiz game has been a valuable learning experience. It has improved
 
 ## Getting Started
 
-To run the quiz game, open a terminal or command prompt, navigate to the project directory, compile the source code using a C compiler (e.g., GCC), and execute the program. Here are the commands to get started:
+To run the quiz game, compile the source code using a C compiler (e.g., GCC) and execute the program .As provide in Quiz Game.c file
 
-```bash
-git clone https://github.com/Tanish-Mittal/QuizGame.git
-cd QuizGame
-gcc quiz_game.c -o quiz_game
-./quiz_game
+
+## Contributions
+
+Contributions to enhance and improve the quiz game are welcome! Feel free to submit pull requests or report issues. Your input can help make this project even better.
+
+## Conclusion
+
+This quiz game offers an engaging way to explore C programming and linked list concepts. Enjoy the quizzes, enhance your knowledge, and check out your previous scores. Thank you for visiting our repository!
+
+---
